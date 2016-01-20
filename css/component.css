@@ -769,14 +769,14 @@ All this is done for any sub-level being entered.
 
 /* Demo 1 */
 .demo-1 .dl-menuwrapper button {
-	//background: #c62860;
-	background: pink;
+	background: #c62860;
+	//background: pink;
 }
 
 .demo-1 .dl-menuwrapper button:hover,
 .demo-1 .dl-menuwrapper button.dl-active,
 .demo-1 .dl-menuwrapper ul {
-	//background: #9e1847;
+	background: #9e1847;
 }
 
 /* Demo 2 */
